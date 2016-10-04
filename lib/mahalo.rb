@@ -1,5 +1,5 @@
 class Mahalo
   def self.speak
-    puts "Mahalo to Ruby!"
+    "Mahalo to Ruby!"
   end
 end
